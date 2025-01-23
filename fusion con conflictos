@@ -1,0 +1,27 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0aa77c7..745a443 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -50,19 +50,19 @@[m
+ 			<li>[m
+ 				<a href="gallery.html">[m
+ 					<img src="images/the-father.jpg" alt="">[m
+[31m-					<span>La madre</span>[m
+[32m+[m					[32m<span>El padre</span>[m
+ 				</a>[m
+ 			</li>[m
+ 			<li>[m
+ 				<a href="gallery.html">[m
+ 					<img src="images/the-actor.jpg" alt="">[m
+[31m-					<span>La actiz</span>[m
+[32m+[m					[32m<span>El actor</span>[m
+ 				</a>[m
+ 			</li>[m
+ 			<li>[m
+ 				<a href="gallery.html">[m
+ 					<img src="images/the-nerd.jpg" alt="">[m
+[31m-					<span>La friki</span>[m
+[32m+[m					[32m<span>El friki</span>[m
+ 				</a>[m
+ 			</li>[m
+ 		</ul>[m
